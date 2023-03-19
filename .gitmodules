@@ -1,0 +1,3 @@
+[submodule "mitten"]
+	path = mitten
+	url = git@github.com:msarkisian/mitten.git
