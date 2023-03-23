@@ -1,6 +1,6 @@
 [workspace]
 
 members = [
-  "lambda",
+  "game_gen",
   "mitten",
 ]
